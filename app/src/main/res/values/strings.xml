@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FyndTask</string>
+    <string name='alertmessage_no_internet_title' translatable="false">Internet Connection Required</string>
+    <string name='alertmessage_no_internet_msg' translatable="false">This app requires a connection to the Internet.  Please turn on cellular data or connect to the Internet.</string>
+    <string name="alert_message_too_many_req_title">Error</string>
+    <string name="alert_message_too_many_req_msg">Too many requests. Please try after 15 minutes.</string>
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="fynd">Fynd</string>
+    <string name="positive_ok">Ok</string>
+    <string name="error_api">Something went wrong. Please try after 15 minutes.</string>
+    <string name="error_no_feeds">You don\'t have any feeds.</string>
+</resources>
